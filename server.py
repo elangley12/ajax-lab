@@ -17,6 +17,8 @@ FORTUNES = [
     "<i>@facebook</i> will retweet an announcement about your Hackbright project.",
     "You will inherit a house in San Francisco.",
     "In the future, your fortune will be wrong.",
+    "You will lose your house in a year.",
+    "Whatever it is, just proceed with confidence."
 ]
 
 WEATHER = {
